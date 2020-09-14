@@ -5,7 +5,7 @@ You will need **[mcpelauncher-client](https://github.com/minecraft-linux/mcpelau
 
 **This mod is only for Minecraft: Bedrock Edition.**
 
-### Install
+### Installation
 ```bash
 mkdir mods && cd mods
 git clone git@github.com:Frago9876543210/WorldDownloader.git
