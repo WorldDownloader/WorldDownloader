@@ -1,7 +1,7 @@
 # WorldDownloader
 This mod is used for downloading parts of a multiplayer world for singleplayer use.
 
-You will need [mcpelauncher-client](https://github.com/minecraft-linux/mcpelauncher-client) to use this mod.
+You will need **[mcpelauncher-client](https://github.com/minecraft-linux/mcpelauncher-client)** to use this mod.
 
 **This mod is only for Minecraft: Bedrock Edition.**
 
