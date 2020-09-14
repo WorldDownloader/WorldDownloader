@@ -1,5 +1,9 @@
 # WorldDownloader
-It's mod for [minecraft-linux/mcpelauncher-client](https://github.com/minecraft-linux/mcpelauncher-client) which collects chunks sent over network from server
+This mod is used for downloading parts of a multiplayer world for singleplayer use.
+
+You will need [mcpelauncher-client](https://github.com/minecraft-linux/mcpelauncher-client) to use this mod.
+
+**This mod is only for Minecraft: Bedrock Edition.**
 
 ### Install
 ```bash
